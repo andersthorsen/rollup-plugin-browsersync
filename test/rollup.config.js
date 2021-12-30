@@ -1,4 +1,4 @@
-const browsersync = require('../index')
+const browsersync = require('../lib/index')
 const path = require('path')
 
 module.exports = {
